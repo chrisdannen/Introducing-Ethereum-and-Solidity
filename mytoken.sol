@@ -1,3 +1,4 @@
+pragma solidity ^0.4.0;
 contract MyToken { 
     /* Public variables of the token */
     string public name;
