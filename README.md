@@ -1,7 +1,7 @@
 # Introducing-Ethereum-and-Solidity
 Programming examples from the book.
 
-To Do:
+## Eth.guide task list (updated 12-3-16)
 * Cull all categories
 * Dedupe
 * Alphabetize
