@@ -5,7 +5,7 @@ To Do:
 * Cull all categories
 * Dedupe
 * Alphabetize
-* Create subdomains
+* Create subdomains: https://help.github.com/articles/setting-up-a-www-subdomain/
 * Add book cover image
 * Add book purchase URL
 
