@@ -15,7 +15,7 @@ contract PiggyBank {
        
        function deposit() payable returns (uint)
        {
-           //check whether ether was actually sent 
+//check whether ether was actually sent 
            if(msg.value > 0)
                 deposits = deposits + 1;
            return getNumberOfDeposits();
