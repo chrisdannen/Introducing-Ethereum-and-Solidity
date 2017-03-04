@@ -156,10 +156,9 @@ If you backed up your entire keystore folder, pull out the text document inside 
 * Ethereum Wiki, “Merkle Patricia Tree Specification,” https://github.com/ethereum/wiki/wiki/Patricia-Tree#merkle-patricia-tree-specification, 2016.
 
 ## JS
-* https://github.com/ethereum/wiki/wiki/JavaScript-API#getting-started
-* https://github.com/ethereum/wiki/wiki/JavaScript-API
-* https://github.com/ethereum/go-ethereum/wiki/JavaScript-Console#management-api-reference
-* https://github.com/ethereum/go-ethereum/wiki/JavaScript-Console
+* The official JavaScript Dapp API: https://github.com/ethereum/wiki/wiki/JavaScript-API
+* Controlling Geth remotely: https://github.com/ethereum/go-ethereum/wiki/JavaScript-Console#management-api-reference
+* Using the JavaScript console in Geth: https://github.com/ethereum/go-ethereum/wiki/JavaScript-Console
 
 ## CLI
 * https://github.com/ethereum/go-ethereum/wiki/Command-Line-Options
