@@ -120,6 +120,7 @@ If you backed up your entire keystore folder, pull out the text document inside 
 * Solidity Examples: http://solidity.readthedocs.io/en/develop/solidity-by-example.html
 * Solidity Tutorials: https://ethereumbuilders.gitbooks.io/guide/content/en/solidity_tutorials.html
 * Advanced Solidity Tutorials by Monax.io: https://monax.io/docs/tutorials/solidity/solidity_1_the_five_types_model/
+* OpenZeppelin Smart Contracts: https://github.com/OpenZeppelin/zeppelin-solidity
 * https://github.com/axic/density
 * http://solidity.readthedocs.io/en/develop/common-patterns.html
 
@@ -192,17 +193,17 @@ If you backed up your entire keystore folder, pull out the text document inside 
 * https://github.com/ethereum/wiki/wiki/Ethereum-Contract-ABI#functions
 
 ## DAPPS
-* https://github.com/ethereum/wiki/wiki/Dapp-using-Meteor
-* https://github.com/EtherCasts/evm-sim/
-* https://github.com/ethereum/wiki/wiki/Dapp-using-Meteor
-* Monax Solidity Tutorials (see solidity.eth.guide)
-* OpenZeppelin Smart Contracts: https://github.com/OpenZeppelin/zeppelin-solidity
+* Dapps with Meteor.js: https://github.com/ethereum/wiki/wiki/Dapp-using-Meteor
+* EVM Simulator: https://github.com/EtherCasts/evm-sim/
 * Truffle deployment, testing, and asset creation environment: https://truffle.readthedocs.io/en/develop/
 * Dapple, a contract systems multi-tool: https://github.com/nexusdev/dapple
 * Populus, contract development framework written in python: https://github.com/pipermerriam/populus
 * Embark, dapp development framework written in JavaScript: https://github.com/iurimatias/embark-framework
 * Truffle Artifactor (formerly Ether Pudding) a package builder: https://github.com/trufflesuite/truffle-artifactor
 * Solium, a linter for Solidity: https://github.com/duaraghav8/Solium
+* Dapp design patterns: https://www.slideshare.net/mids106/dapp-design-patterns
+* Video about dapp design patterns: https://www.youtube.com/watch?v=XkJ8mg-R7C0&app=desktop
+* Nexus Dapp development blog: http://blog.nexusdev.us/
 
 ## test
 * https://github.com/ethereum/tests
