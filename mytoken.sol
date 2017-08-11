@@ -28,8 +28,8 @@ contract MyToken {
     /* Send coins */
     function transfer(address _to, uint256 _value) {
         /* if the sender doenst have enough balance then stop */
-        if (balanceOf[msg.sender] < _value) throw;
-        if (balanceOf[_to] + _value < balanceOf[_to]) throw;
+        if (balanceOf[msg.sender] < _value) revert;
+        if (balanceOf[_to] + _value < balanceOf[_to]) revert;
         
         /* Add and subtract new balances */
         balanceOf[msg.sender] -= _value;
