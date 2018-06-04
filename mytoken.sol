@@ -36,6 +36,6 @@ contract MyToken {
         balanceOf[_to] += _value;
 
         /* Notify anyone listening that this transfer took place */
-        Transfer(msg.sender, _to, _value);
+        emit Transfer(msg.sender, _to, _value);
     }
 }
