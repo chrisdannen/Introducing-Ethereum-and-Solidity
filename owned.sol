@@ -9,7 +9,7 @@ contract Owned {
 
     event NewOwner(address indexed old, address indexed current);
 
-    function setOwner(address _new) only_owner { NewOwner(owner, _new); owner = _new; }
+    function setOwner(address _new) only_owner { emit NewOwner(owner, _new); owner = _new; }
 
     address public owner = msg.sender;
 }
